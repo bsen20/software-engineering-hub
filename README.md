@@ -13,7 +13,7 @@ A comprehensive, interactive learning platform for mastering software engineerin
 
 ## 🚀 Live Demo
 
-[View Live Site](https://your-username.github.io/your-repo-name)
+[View Live Site](https://bsen20.github.io/software-engineering-hub/)
 
 ## 📖 Topics Covered
 
